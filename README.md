@@ -8,6 +8,8 @@ Task: Use machine learning to create a model that predicts which passengers surv
 [ScikitLearn](https://scikit-learn.org/stable/)<br/>
 [Pandas](https://pandas.pydata.org/)<br/>
 
+#### This notebook can be run interactively on Google Colab or on Jupyter
+
 [Overview of the Competition](https://www.kaggle.com/c/titanic/overview)<br/>
 
 #### This Notebook will show Basic examples of:<br/>
